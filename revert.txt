@@ -1,3 +1,1 @@
 first text to revert.txt
-
-second text to revert
